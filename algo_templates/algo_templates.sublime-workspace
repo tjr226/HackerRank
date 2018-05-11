@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valueToMove",
+				"valueToMoveIndex"
+			],
+			[
+				"valueTo",
+				"valueToMoveIndex"
+			],
+			[
+				"right",
+				"rightIndexInArray"
+			],
+			[
+				"left",
+				"leftIndexInArray"
+			],
+			[
+				"ReverseDoubl",
+				"ReverseDoublyLinkedListRecursiveTR"
+			],
+			[
+				"id",
+				"id_subject"
+			],
+			[
+				"board",
+				"board_topics_url"
+			],
+			[
+				"assert",
+				"assertContains"
+			],
+			[
+				"breadcrum",
+				"breadcrumb-item"
+			],
+			[
+				"home",
+				"homepage_url"
+			],
+			[
+				"asser",
+				"assertContains"
+			],
+			[
+				"board_",
+				"board_topics"
+			],
+			[
+				"board_topics",
+				"board_topics_url"
+			],
+			[
+				"empty",
+				"emptyArr"
+			],
+			[
+				"list",
+				"list_to_merge"
+			],
+			[
+				"lst",
+				"last_list"
+			],
+			[
+				"last",
+				"last_list"
+			],
+			[
+				"last_",
+				"last_list_to_merge"
+			],
+			[
+				"angle",
+				"angle"
+			],
+			[
+				"step",
+				"step_angle"
+			],
+			[
+				"arc",
+				"arc_length"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"turtle",
+				"turtle_circle"
+			],
+			[
+				"row",
+				"row_end"
+			],
+			[
+				"abundant",
+				"abundant_dict"
+			],
+			[
+				"abunda",
+				"abundant_sum_list"
+			],
+			[
+				"a",
+				"a_iter"
+			],
+			[
+				"diviso",
+				"divisorSum"
+			],
+			[
+				"abun",
+				"abundant_sum_list"
+			],
+			[
+				"amicab",
+				"amicable_sum"
+			],
+			[
+				"amicable",
+				"amicable_number_list"
+			],
+			[
+				"divisor",
+				"divisor_sum"
+			],
+			[
+				"month",
+				"monthly_quantities"
+			],
+			[
+				"non",
+				"non_leap_year"
+			],
+			[
+				"days",
+				"days_since"
+			],
+			[
+				"leap",
+				"leap_year"
+			],
+			[
+				"ten",
+				"TENS"
+			],
+			[
+				"one",
+				"one_thousand"
+			],
+			[
+				"moth",
+				"monthLabels"
+			],
+			[
+				"displayRetireWMonth",
+				"displayRetireWMonthsAndRates"
+			],
+			[
+				"display",
+				"displayRetireWRates"
+			],
+			[
+				"bruteT",
+				"bruteTime2"
+			],
+			[
+				"brute",
+				"bruteStart2"
+			],
+			[
+				"greey",
+				"greedyTime2"
+			],
+			[
+				"greedy",
+				"greedyStart"
+			],
+			[
+				"current",
+				"current_min_trip"
+			],
+			[
+				"trip_",
+				"trip_is_ok"
+			],
+			[
+				"cow",
+				"cow_weight"
+			],
+			[
+				"min",
+				"min_trip_length"
+			],
+			[
+				"trip",
+				"trip_max_weight"
+			],
+			[
+				"small_cow",
+				"small_cow_tuple"
+			],
+			[
+				"small",
+				"small_cow_weight"
+			],
+			[
+				"big",
+				"big_cow"
+			],
+			[
+				"max",
+				"max_key"
+			],
+			[
+				"largest",
+				"largest_cow"
+			],
+			[
+				"hour",
+				"hour_glass"
+			],
+			[
+				"hourglass",
+				"hourglass_sum"
+			],
+			[
+				"bot",
+				"hourglass_bottom"
+			],
+			[
+				"middle",
+				"middle_int"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"yield",
+				"yieldAllCombosItertools"
+			],
+			[
+				"yile",
+				"yieldTuple"
+			],
+			[
+				"comb",
+				"comboTupleB"
+			],
+			[
+				"combo",
+				"comboTupleA"
+			],
+			[
+				"items",
+				"itemsPowerList"
+			],
+			[
+				"foo2",
+				"foo2_list"
+			],
+			[
+				"foo",
+				"foo2"
+			],
+			[
+				"new",
+				"newList"
+			],
+			[
+				"power",
+				"powerSetList"
+			],
+			[
+				"acid",
+				"acidNaming"
+			],
+			[
+				"e",
+				"e_count"
+			],
+			[
+				"test",
+				"testDict3"
+			],
+			[
+				"return",
+				"return_list"
+			],
+			[
+				"counting",
+				"counting_list"
+			],
+			[
+				"input",
+				"inputQuery"
+			],
+			[
+				"spli",
+				"splitList"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"lower",
+				"lower_bound"
+			],
+			[
+				"node",
+				"node_and_bounds_stack"
+			],
+			[
+				"collat",
+				"collatz_counter"
+			],
+			[
+				"divi",
+				"divisor_count"
+			],
+			[
+				"trian",
+				"triangle_generator"
+			],
+			[
+				"mirror",
+				"mirrorMaxProduct"
+			],
+			[
+				"mode",
+				"mode_occurences"
+			],
+			[
+				"total",
+				"total_Temp_Sum"
+			],
+			[
+				"temp",
+				"temp_int"
+			],
+			[
+				"TempTracker",
+				"TempTrackerGreedy"
+			],
+			[
+				"get",
+				"get_mode"
+			],
+			[
+				"Temp",
+				"tempList"
+			],
+			[
+				"mean",
+				"meanTemp"
+			],
+			[
+				"Pass",
+				"PasswordField"
+			],
+			[
+				"Pas",
+				"Password"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"next",
+				"next_page"
+			],
+			[
+				"logout",
+				"logout_user"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"check",
+				"check_password_hash"
+			],
+			[
+				"password",
+				"password_hash"
+			],
+			[
+				"overlap",
+				"overlap_height"
+			],
+			[
+				"over",
+				"overlap_width"
+			],
+			[
+				"overla",
+				"overlap_height"
+			],
+			[
+				"po",
+				"point2"
+			],
+			[
+				"their",
+				"their_rectange"
+			],
+			[
+				"my",
+				"my_rectangle"
+			],
+			[
+				"my_",
+				"my_x"
+			],
+			[
+				"change",
+				"change_possibilities_bottom_up_IC_copy"
+			],
+			[
+				"higher",
+				"higher_amount_remainder"
+			],
+			[
+				"ways",
+				"ways_of_doing_n_cents"
+			],
+			[
+				"amount",
+				"amount_left"
+			],
+			[
+				"curent",
+				"current_index"
+			],
+			[
+				"denomin",
+				"denominations"
+			],
+			[
+				"denomi",
+				"denomination_list"
+			],
+			[
+				"num",
+				"num_possibilities"
+			],
+			[
+				"denom",
+				"denominations"
+			],
+			[
+				"cur",
+				"current_index"
+			],
+			[
+				"memo",
+				"memo_key"
+			],
+			[
+				"deno",
+				"denominations"
+			],
+			[
+				"coin",
+				"coin_combos_bottom_up"
+			],
+			[
+				"match",
+				"matching_combos"
+			],
+			[
+				"denomination",
+				"denomination_list"
+			],
+			[
+				"decrypt",
+				"decrypt_story"
+			],
+			[
+				"decryp",
+				"decrypted_story"
+			],
+			[
+				"decr",
+				"decrypted_story"
+			],
+			[
+				"ciph",
+				"cipher_story"
+			],
+			[
+				"Ciph",
+				"CiphertextMessage"
+			],
+			[
+				"best",
+				"best_word_count_shift"
+			],
+			[
+				"shift",
+				"shifted_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "heaps.py",
+			"settings":
+			{
+				"buffer_size": 4590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "heaps_hacker_rank.py",
+			"settings":
+			{
+				"buffer_size": 6077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stacks.py",
+			"settings":
+			{
+				"buffer_size": 3936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/heaps_hacker_rank.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/heaps.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/strings.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/trees.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/doubly_linked_lists.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/single_linked_lists.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/searching.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/sorting.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/heaps_scratchpad.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/ps6/ps6.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/ps3hangman/ps3_hangman.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/wk2polysum.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/pset1/ps1.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/final_exam_rabbits_foxes.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/rabbits.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/array_algos.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/linked_lists.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/algo_templates/testing.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/signup.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/topics.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/includes/form.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/new_topic.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/home.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/static/css/app.css",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/static/css/bootstrap.min.css",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/static/css/accounts.css",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/login.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/base_accounts.html",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/templates/base.html",
+		"/C/Users/roonet4/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/C/Users/roonet4/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/boards/models.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/boards/admin.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/boards/tests.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/boards/views.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/myproject/urls.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/myproject/myproject/settings.py",
+		"/C/Users/roonet4/Desktop/coding/django/myproject/manage.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/pset2/ps2.py",
+		"/C/Users/roonet4/Desktop/coding/django/books/book_list.html",
+		"/C/Users/roonet4/Desktop/coding/django/books/views.py",
+		"/C/Users/roonet4/Desktop/coding/django/books/urls.py",
+		"/C/Users/roonet4/Desktop/coding/django/books/models.py",
+		"/C/Users/roonet4/Desktop/coding/django/books/base.html",
+		"/C/Users/roonet4/Desktop/coding/django/books/tutorial_link.txt",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calc_hw/calc.html",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calc_hw/calc.js",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/regex_example.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day29_bitwise_optimization.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/bst_examples.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_15_linked_lists_OO_example.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/getheightofbinarysearchtree.py",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calc_hw/jquery.js",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/petstore_hw/petstore.js",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calendar.html",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calendar_original.html",
+		"/C/Users/roonet4/Desktop/coding/penn/sd4/calendar.css",
+		"/C/Users/roonet4/Desktop/coding/study_tracking/study_tracking.txt",
+		"/C/Users/roonet4/Desktop/coding/elm/elm_skeleton.elm",
+		"/C/Users/roonet4/Desktop/coding/elm/test.elm",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day18_testing.py",
+		"/C/Users/roonet4/Desktop/coding/email_sort/email_sort.py",
+		"/C/Users/roonet4/Desktop/coding/email_sort/test1.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler18.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_12.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_13_abstract_objects.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_14_OO_example.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day18_stacks_and_queues.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day22_bst.py",
+		"/C/Users/roonet4/AppData/Roaming/Microsoft/Windows/Network Shortcuts/Desktop",
+		"/C/Users/roonet4/Desktop/ps1/peak.py",
+		"/C/Users/roonet4/Desktop/ps1/trace.py",
+		"/C/Users/roonet4/Desktop/ps1/algorithms.py",
+		"/C/Users/roonet4/Desktop/coding/thinkPython/thinkpython.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler16.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/problem18_triangle.txt",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler11.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler20_factorial_sum.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler23.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler21_amicable_numbers.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler19_Sundays.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler19.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler20.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler15.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler17.py",
+		"/C/Users/roonet4/Desktop/coding/thinkpython.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/pset2/ps2_visualize.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/lecture6.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/lecture4.py",
+		"/C/Users/roonet4/Desktop/coding/proje",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/pset1/ps1_cow_data.txt",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/lecture2.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/lecture3.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/2d_arrays.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/pipping.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/revised_russian_roulette.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/plotting.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6002x/lecture_2_exercise_1.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_10.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/final_exam.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/acid_naming.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/usresident.py",
+		"/C/Users/roonet4/Desktop/coding/hacker",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/ps4/ps4b.py",
+		"/C/Users/roonet4/Desktop/coding/mitx6001x/ps4/ps4a.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_9_funny_string.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_6_lets_review.py",
+		"/C/Users/roonet4/Desktop/coding/hacker_rank/day_1_data_types.py",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/_post.html",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/user.html",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/__init__.py",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/base.html",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/login.html",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/forms.py",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/register.html",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/models.py",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/routes.py",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/microblog/app/templates/base",
+		"/C/Users/roonet4/Desktop/coding/flask_tutorials/micr",
+		"/C/Users/roonet4/Desktop/coding/interview_cake/superbalanced_copy.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler12.py",
+		"/C/Users/roonet4/Desktop/coding/interview_cake/binary_tree_check_copy.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler14.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/projectEuler13.py",
+		"/C/Users/roonet4/Desktop/coding/projectEuler/pe13hundred50digitnumbers.txt",
+		"/C/Users/roonet4/Desktop/coding/interview_cake/multiply_numbers_in_range.py",
+		"/C/Users/roonet4/Desktop/coding/interview_cake/fib_memoized.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"()\n",
+			"index",
+			"style",
+			"off-day",
+			"left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "heaps.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "heaps_hacker_rank.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5437,
+								5437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "stacks.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3934,
+								3934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1292.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_format":
+	{
+		"height": 148.0
+	},
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "algo_templates.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\roonet4\\Desktop\\coding\\django\\SITR\\SITR_python.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

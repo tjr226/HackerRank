@@ -204,3 +204,63 @@ class Node(object):
 	            lowestCommonAncestor = node
 	        
 	    return lowestCommonAncestor
+
+
+	def check_binary_search_tree_(root, max=None, min=None):
+
+		# recursive check to see if node is root of a binary search tree
+	    # bst constraints: each node has root.left < root.data < root.right
+	    # strictly lt/gt
+
+	    if max is None and min is None:
+	        pass
+	        # pass exits this If statement
+	    elif max is None:
+	        if root.data <= min:
+	            return False
+	    elif min is None:
+	        if root.data >= max:
+	            return False
+	    else:
+	        if root.data <= min or root.data >= max:
+	            return False
+	        
+	    if root.left:
+	        if not check_binary_search_tree_(root.left, max=root.data, min=min):
+	            return False
+	        
+	    if root.right:
+	        if not check_binary_search_tree_(root.right, max=max, min=root.data):
+	            return False       
+	            
+	    return True
+
+	def check_binary_search_tree_iterative(root):
+		# iterative check to see if node is root of a binary search tree
+	    # bst constraints: each node has root.left < root.data < root.right
+	    # strictly lt/gt
+
+
+    	# uses iterative breadth first traversal to create list of all data points
+    	# creates an in order traversal list
+    	# final line checks to confirm that it's strictly in ascending order
+
+	    current = root
+	    stack = []
+	    done = 0
+	    data_list = []
+	    
+	    while(not done):
+	        if current is not None:
+	            stack.append(current)
+	            current = current.left
+	        else:
+	            if(len(stack) > 0):
+	                current = stack.pop()
+	                data_list.append(current.data)
+	                current = current.right
+	            else:
+	                done = 1
+	                
+	    
+	    return all(data_list[i] < data_list[i+1] for i in range(len(data_list)-1))
